@@ -28,17 +28,17 @@
 ---
 
 ### :man_technologist: About Me :
- - :telescope: I’m currently working as a Backend Developer.
+ - :telescope: I am a professional Backend Developer with experience in various technologies and frameworks.
 
-- :man_student: Udacity Alumini
+- :man_student: I am an alumni of Udacity, where I received training in software development.
 
-- :seedling: An open source contributor
+- :seedling: I am an active open-source contributor, continuously seeking to improve and contribute to the community.
 
-- :people_holding_hands: I’m looking to collaborate on Backend projects.
+- :people_holding_hands: I am open to collaborating on Backend projects and always looking to expand my skills.
 
-- :zap: In my free time, I solve problems on leetcode.
+- :zap: In my free time, I enjoy working on personal coding projects, playing video games and listening to music.
 
-- :mailbox:How to reach me: chukaibejih@gmail.com
+- :mailbox: If you would like to contact me, please feel free to reach out via email at chukaibejih@gmail.com
 
 
 ---
