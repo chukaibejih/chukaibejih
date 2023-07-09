@@ -25,31 +25,26 @@
 
 </div>
 
----
+# :man_technologist: About Me
 
-### :man_technologist: About Me :
- - :telescope: I am a professional Backend Developer with experience in various technologies and frameworks.
-
-- :man_student: I am an alumni of Udacity, where I received training in software development.
-
-- :seedling: I am an active open-source contributor, continuously seeking to improve and contribute to the community.
-
-- :people_holding_hands: I am open to collaborating on Backend projects and always looking to expand my skills.
-
-- :zap: In my free time, I enjoy working on personal coding projects, playing video games and listening to music.
-
-- :mailbox: If you would like to contact me, please feel free to reach out via email at chukaibejih@gmail.com
-
+- :telescope: I am a professional Backend Developer with extensive experience in various technologies and frameworks.
+- :man_student: I am an alumnus of Udacity, where I received comprehensive training in software development.
+- :seedling: I am passionate about open-source contributions and actively contribute to the development community.
+- :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skillset.
+- :zap: In my free time, I enjoy working on personal coding projects, playing video games, and exploring new music.
+- :mailbox: Feel free to reach out to me via email at chukaibejih@gmail.com if you would like to connect or discuss any opportunities.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :rocket: Skills
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40"       height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+- Backend Development: Python, Django, Flask, Node.js
+- Databases: PostgreSQL, MySQL, MongoDB
+- RESTful APIs: Django REST Framework
+- Version Control: Git, GitHub
+- Deployment: Heroku, AWS, Docker
+
+---
+
                                                                                                                                             
                                                                                                                                        
